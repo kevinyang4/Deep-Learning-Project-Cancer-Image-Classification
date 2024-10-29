@@ -3,7 +3,7 @@
 Google Colab: https://colab.research.google.com/drive/1nqzqEwi1e2bP_yq9nRnrSJUz2QEXUaZc?usp=sharing 
 
 ## Team member contribution
-
+Eric Tan: General code for training and evaluating dataset 1 for task 1 using ResNet model
 
 ## Description
 
