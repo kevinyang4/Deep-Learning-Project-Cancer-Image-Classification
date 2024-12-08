@@ -6,6 +6,11 @@ Google Colab: https://colab.research.google.com/drive/1nqzqEwi1e2bP_yq9nRnrSJUz2
 Eric Tan: General code for training and evaluating dataset 1 for task 1 using ResNet model
 
 ## Description
+The main objective of this project is to study the transferability of CNN models between different types of datasets. It is important to gain an understanding of transferability in machine learning as it allows for faster model training through and an efficient use of resources. This project includes two tasks to solve this problem: 
+
+Task 1: Train a CNN model for Colorectal Cancer Classification, evaluating its performance through training accuracy and loss metrics. To understand the learned feature representations, t-SNE is applied to the CNN encoder's output features, visualizing them in reduced dimensions based on their class labels. This provides insights into the quality and class separability of the learned features.
+
+Task 2: Compare the feature extraction capabilities between the CNN encoder trained in Task 1 and a pre-trained ImageNet encoder on two new datasets, Dataset 2 and Dataset 3. Features extracted from these encoders are visualized using t-SNE to analyze their generalization across domains. SVM is used to classify the extracted features, assessing their discriminative power for each dataset.
 
 ## How to run code
 Open the .ipynb file and import all three datasets. The code can then be run on CPU/GPU. There are two seperate code blocks, one for each task. To run the project, first run the imports located in the first code block. After you can run the 'Task 1' code block which contains the data preprocessing and the setup for the ResNet18 model. The model is trained and evaluated in this task. The hyperparameter tuning is also ran in this code block. The results are also analyzed and visualized with Grad-Cam. The 'Task 2' code block contains the feature extraction from the encoders from 'Task 1' and plot t-SNE graphs. This code block will also classify the extracted features using Support Vector Machine and output its Classification reports.
