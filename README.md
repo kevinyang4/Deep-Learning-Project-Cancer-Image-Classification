@@ -3,7 +3,7 @@
 Google Colab: https://colab.research.google.com/drive/1nqzqEwi1e2bP_yq9nRnrSJUz2QEXUaZc?usp=sharing 
 
 ## Team member contribution
-Eric Tan: General code for training and evaluating dataset 1 for task 1 using ResNet model
+
 
 ## Description
 The main objective of this project is to study the transferability of CNN models between different types of datasets. It is important to gain an understanding of transferability in machine learning as it allows for faster model training through and an efficient use of resources. This project includes two tasks to solve this problem: 
