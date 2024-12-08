@@ -3,6 +3,52 @@
 Google Colab: https://colab.research.google.com/drive/1nqzqEwi1e2bP_yq9nRnrSJUz2QEXUaZc?usp=sharing 
 
 ## Team member contribution
+Code project contribution can be tracked directly in the history of the Google Colabs instead of the commits, as we worked as a team on the Google Colab directly.
+
+Eric Tan:
+- Setup the GitHub pages + README.md
+- Worked on code development for Task 1 and Task 2
+- Worked on the Project: Initial Proposal Submission
+- Worked on the Project: Finalized Project Proposal
+- Worked on the Project: Progress Report
+- Worked on the Project: Final Report: Introduction section + Related Works
+- Worked on the Final Presentation: slides + video presentation
+- Acted as Team leader: seperated tasks, make sure everything is completed by deadline
+- Asked questions to TA concerning the project to have more instructions on what to do
+
+Kevin Yang:
+- Worked on code of Task 1: evaluation of the model, Grad-CAM
+- Worked on the Project: Initial Proposal Submission
+- Worked on the Project: Finalized Project Proposal
+- Worked on the Project: Progress Report
+- Worked on the Project: Final Report: Results for task 1
+- Worked on the Final Presentation: slides + video presentation
+  
+Kevin Duong:
+- Worked on code development for graph creation task1
+- Worked on the Project: Initial Proposal Submission
+- Worked on the Project: Finalized Project Proposal
+- Worked on the Project: Progress Report: Methodology
+- Worked on the Project: Final Report: Methodologies for task 1
+- Worked on the Final Presentation: slides + video presentation
+
+Gabriel Dubois:
+- Formatted the CPVR documents
+- Worked on code development for Task 1 and Task 2: Model evaluation and hyperparameter tuning + Validation set analysis
+- Worked on the Project: Initial Proposal Submission
+- Worked on the Project: Finalized Project Proposal
+- Worked on the Project: Progress Report: Methodology
+- Worked on the Project: Final Report: Abstract + Methodology
+- Worked on the Final Presentation: slides + video presentation
+
+Liam Daigle:
+- Created the projects Gantt Chart
+- Helped on Code Development for Task 2 by fixing certain issues and adding the classification using the SVM
+- Worked on the Project: Initial Proposal Submission
+- Worked on the Project: Finalized Project Proposal
+- Worked on the Project: Progress Report
+- Worked on the Project Final Report: Methodologies for Task 2 + Retrieved the graphs by running the Code
+- Worked on the Final Presentation: slides + video presentation
 
 
 ## Description
