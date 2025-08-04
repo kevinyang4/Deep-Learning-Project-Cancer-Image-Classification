@@ -1,6 +1,6 @@
 # COMP432-Project
 
-Google Colab: https://colab.research.google.com/drive/1k3EfJN_UNDDy87o54Jaac-rMPa7JpAWJ
+Google Colab: https://colab.research.google.com/drive/1k3EfJN_UNDDy87o54Jaac-rMPa7JpAWJ?usp=sharing
 
 Video link: https://youtu.be/sBtQmSti6BY
 
