@@ -2,7 +2,7 @@
 
 Google Colab: https://colab.research.google.com/drive/1nqzqEwi1e2bP_yq9nRnrSJUz2QEXUaZc?usp=sharing 
 
-Video Download link: https://drive.google.com/file/d/1X-4lk-smoLqQ4uT4SDbBrQRLPFetAxpJ/view?usp=drive_link 
+Video link: https://youtu.be/sBtQmSti6BY
 
 ## Team member contribution
 Code project contribution can be tracked directly in the history of the Google Colabs instead of the commits, as we worked as a team on the Google Colab directly.
